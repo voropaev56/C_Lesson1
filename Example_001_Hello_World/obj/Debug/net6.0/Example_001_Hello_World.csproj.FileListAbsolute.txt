@@ -1,0 +1,15 @@
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\bin\Debug\net6.0\Example_001_Hello_World.exe
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\bin\Debug\net6.0\Example_001_Hello_World.deps.json
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\bin\Debug\net6.0\Example_001_Hello_World.runtimeconfig.json
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\bin\Debug\net6.0\Example_001_Hello_World.dll
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\bin\Debug\net6.0\Example_001_Hello_World.pdb
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.csproj.AssemblyReference.cache
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.AssemblyInfoInputs.cache
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.AssemblyInfo.cs
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.csproj.CoreCompileInputs.cache
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.dll
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\refint\Example_001_Hello_World.dll
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.pdb
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\Example_001_Hello_World.genruntimeconfig.cache
+D:\GB\C #\Лекция_1\Examples\Example_001_Hello_World\obj\Debug\net6.0\ref\Example_001_Hello_World.dll
